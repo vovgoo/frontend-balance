@@ -1,0 +1,9 @@
+export { Home } from "./Home";
+export { AddPost } from "./AddPost";
+export { Registration } from "./Registration";
+export { Login } from "./Login";
+export { AboutUs } from "./AboutUs";
+export { Contact } from "./Contact.jsx";
+export { Shop } from "./Shop.jsx";
+export { Item } from "./Item.jsx";
+export { Cart } from "./Cart.jsx" 
